@@ -5,3 +5,4 @@
 ## Starters
 
 * [Select a nation](starters/select-a-nation.md)
+* [Manage Your Nation](starters/manage-your-nation.md)
