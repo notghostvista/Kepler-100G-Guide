@@ -6,3 +6,9 @@
 
 * [Select a nation](starters/select-a-nation.md)
 * [Manage Your Nation](starters/manage-your-nation.md)
+
+## Information
+
+* [Sanctions and Embargoes](information/sanctions-and-embargoes/README.md)
+  * [Impose a Sanction/Embargo](information/sanctions-and-embargoes/impose-a-sanction-embargo.md)
+  * [Sanction/Embargo Imposed Against You](information/sanctions-and-embargoes/sanction-embargo-imposed-against-you.md)
