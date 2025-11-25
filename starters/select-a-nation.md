@@ -9,10 +9,13 @@ To select the nation you like to play as, you must go through the map and select
 
 Here are the current nations you can select from:
 
-| Nation Name        | XP Required  | Difficulty |
-| ------------------ | ------------ | ---------- |
-| Amagian Federation | Not Required | Easy       |
-| Boomlia            | Not Required | Semi-Easy  |
-| Cure Union         | 1000XP       | Medium     |
-| Dakutan State      | 1000XP       | Semi-Hard  |
-| Glorian Kingdom    | Not Requried | Easy       |
+| Nation Name          | XP Required  | Difficulty |
+| -------------------- | ------------ | ---------- |
+| Amagian Federation   | Not Required | Easy       |
+| Boomlia              | Not Required | Semi-Easy  |
+| Cure Union           | 1000XP       | Medium     |
+| Dakutan State        | 1000XP       | Semi-Hard  |
+| Glorian Kingdom      | Not Requried | Easy       |
+| ToadVille Bay        | 1000XP       | Hard       |
+| Progressia           | 2000XP       | Hard       |
+| Great Union of Tajan | 2000XP       | Semi-Hard  |
