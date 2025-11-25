@@ -31,4 +31,6 @@ This guide was created to guide you on how you can get started with the Kepler-1
 
 If you have any further questions, you may join the Kepler-100G Discord Server.\
 \
-For now, due to cost, Kepler-100G Game will be a singleplayer mode until furthur notice.
+For now, due to cost, Kepler-100G Game will be a singleplayer mode until furthur notice
+
+<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Formables</td><td><a href="information/formables.md">formables.md</a></td><td><a href=".gitbook/assets/GameMap.png">GameMap.png</a></td></tr></tbody></table>
