@@ -1,5 +1,6 @@
 ---
 description: Learn how to impose sanctions/embargos on a nation
+icon: hand
 ---
 
 # Impose a Sanction/Embargo

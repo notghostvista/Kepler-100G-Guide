@@ -1,5 +1,6 @@
 ---
 description: Learn how to manage your nation
+icon: wrench
 ---
 
 # Manage Your Nation

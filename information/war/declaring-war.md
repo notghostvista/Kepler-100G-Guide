@@ -1,5 +1,6 @@
 ---
 description: Learn how to declare war on another nation
+icon: cannon
 ---
 
 # Declaring War

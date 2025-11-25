@@ -1,5 +1,6 @@
 ---
 description: Learn what Sanctions and Embargo are and how it can affect you
+icon: user-slash
 ---
 
 # Sanctions and Embargoes

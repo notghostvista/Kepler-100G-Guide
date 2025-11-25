@@ -1,7 +1,26 @@
 ---
 description: Full Guide to get started
+hidden: true
+icon: house-chimney-window
 cover: .gitbook/assets/GameMap.png
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Welcome to Kepler-100G

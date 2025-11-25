@@ -1,5 +1,6 @@
 ---
 description: Learn on the types of sanctions/embargo you can impose
+icon: hammer-war
 ---
 
 # Types of Sanctions/Embargoes

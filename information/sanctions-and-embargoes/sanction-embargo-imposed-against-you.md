@@ -1,5 +1,6 @@
 ---
 description: Learn on how to know if a country imposed a sanction/embargo agaisnt you
+icon: octagon-xmark
 ---
 
 # Sanction/Embargo Imposed Against You

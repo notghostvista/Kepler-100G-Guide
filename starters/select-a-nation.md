@@ -1,5 +1,6 @@
 ---
 description: Learn how to select a nation that suites you the most
+icon: globe
 ---
 
 # Select a nation

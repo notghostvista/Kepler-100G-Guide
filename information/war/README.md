@@ -1,5 +1,6 @@
 ---
 description: Learn more about war and how it can affect you
+icon: light-emergency-on
 ---
 
 # War

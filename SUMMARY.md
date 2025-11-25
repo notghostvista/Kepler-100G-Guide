@@ -16,4 +16,4 @@
 * [War](information/war/README.md)
   * [Declaring War](information/war/declaring-war.md)
   * [Treaty to End War](information/war/treaty-to-end-war.md)
-* [🏳️ Formables](information/formables.md)
+* [Formables](information/formables.md)

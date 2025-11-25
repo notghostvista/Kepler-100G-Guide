@@ -1,5 +1,6 @@
 ---
 description: Learn more about treaties to end the war
+icon: peace
 ---
 
 # Treaty to End War
