@@ -1,6 +1,5 @@
 ---
 description: Full Guide to get started
-hidden: true
 icon: house-chimney-window
 cover: .gitbook/assets/GameMap.png
 coverY: 0
