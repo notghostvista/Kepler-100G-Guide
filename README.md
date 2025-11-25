@@ -1,5 +1,7 @@
 ---
 description: Full Guide to get started
+cover: .gitbook/assets/GameMap.png
+coverY: 0
 ---
 
 # Welcome to Kepler-100G
